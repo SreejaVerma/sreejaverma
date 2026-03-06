@@ -6,7 +6,11 @@
 
 💬 Ask me about **Business Analysis, Data Analytics, AI Engineering, and turning complex data into actionable insights**
 
-📫 How to reach me: **https://www.linkedin.com/in/sreeja-5b0345b3/**
+📫 How to reach me:
+- 🌐 **Website:** [sreejaverma.github.io](https://sreejaverma.github.io/sreejaverma/)
+- 📸 **Instagram:** [@ai_engineering_with_sreeja](https://www.instagram.com/ai_engineering_with_sreeja/)
+- 📧 **Email:** [sreejaverma20@gmail.com](mailto:sreejaverma20@gmail.com)
+- 💼 **LinkedIn:** [Sreeja](https://www.linkedin.com/in/sreeja-5b0345b3/)
 
 😄 Pronouns: **She/Her**
 
