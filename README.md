@@ -1,4 +1,4 @@
-# Hi there, I'm Sreeja 👋
+# Hi there, I'm Srijaa 👋
 
 🔭 I'm currently working on **AI engineering projects bridging business analytics and machine learning**
 
