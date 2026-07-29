@@ -7,9 +7,9 @@
 💬 Ask me about **Business Analysis, Data Analytics, AI Engineering, and turning complex data into actionable insights**
 
 📫 How to reach me:
-- 🌐 **Website:** [srijaa.github.io](https://sreejaverma.github.io/sreejaverma/)
+- 🌐 **Website:** [srijaa.github.io](https://srijaabizanalyst.github.io/Srijaa/)
 - 📸 **Instagram:** [@ai_engineering_with_srijaa](https://www.instagram.com/ai_engineering_with_sreeja/)
-- 📧 **Email:** [srijaa.official@gmail.com](mailto:sreejaverma20@gmail.com)
+- 📧 **Email:** [srijaa.official@gmail.com](mailto:srijaa.offical@gmail.com)
 - 💼 **LinkedIn:** [Sreeja ( Srijaa )](https://www.linkedin.com/in/sreeja-biz/)
 
 😄 Pronouns: **She/Her**
